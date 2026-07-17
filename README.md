@@ -4,8 +4,8 @@ This folder contains a compact, anonymized implementation of the core method
 used in the submission. It is intended for method inspection only.
 
 Included:
-- `core/hscnet.py`: the main hierarchical semantic constraint network.
-- `core/losses.py`: semantic alignment, prototype consistency, contrastive, and hierarchy losses.
+- `hscnet.py`: the main hierarchical semantic constraint network.
+- `losses.py`: semantic alignment, prototype consistency, contrastive, and hierarchy losses.
 
 Omitted intentionally:
 - dataset paths and preprocessing scripts;
